@@ -1,0 +1,4 @@
+main: pw.rfield.ezmaintenance.MaintenancePlugin
+version: ${project.version}
+author: Maplesauce
+name: Maintenance
